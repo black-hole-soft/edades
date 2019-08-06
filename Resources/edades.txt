@@ -1,0 +1,9 @@
+juan,14
+antonio,67
+gerardo,22
+osvaldo,22
+ramon,21
+sergio,16
+ecua,10
+laura,25
+fernanda,31
